@@ -19,7 +19,7 @@
 
 
 
-#### 2. Source guide (names and corresponding numbers):
+#### 2. Source guide (names and corresponding numbers)
 
 The enumeration and the order is important for correctly cleaning and creating datasets, the names can be changed. 
 
