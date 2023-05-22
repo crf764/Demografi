@@ -1,5 +1,7 @@
 ## Aggregate the Link-Lives datasets into one
 
+![newplot](https://github.com/crf764/Demografi/assets/125284169/8bf24e75-c38b-4018-9a8b-22194289fb98)
+
 email: crf764@econ.ku.dk
 
 ### 'finaldata.csv' is my final file.
