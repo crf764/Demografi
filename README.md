@@ -8,7 +8,7 @@
 4. Ensure that you have the .csv files needed and change the path in the second code cell of the notebook, if necessary, to the path on your computer
 5. Run the whole notebook, at once or cell by cell.  
 
-6. (optional1) Add any additional .csv paths and corresponding names to the second code cell in the notebook.(.csv files MUST be in the order written below in section 2). 
+6. (optional) Add any additional .csv paths and corresponding names to the second code cell in the notebook.(.csv files MUST be in the order written below in section 2). 
     Then run the notebook again to produce a new .csv containing the additional sources.    
     
 
