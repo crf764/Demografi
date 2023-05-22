@@ -1,5 +1,7 @@
 ## Aggregate the Link-Lives datasets into one
 
+email: crf764@econ.ku.dk
+
 ### 'finaldata.csv' is my final file.
 
 #### 1. Guide to creating an aggregated dataset
