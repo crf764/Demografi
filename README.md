@@ -4,7 +4,7 @@
 
 #### 1. Guide to creating an aggregated dataset
 
-1. You need a python environment that can execute Jupyter notebook files
+1. You need a program that can execute Jupyter notebook files with a python kernel (e.g. Jupyter Lab, Visual Studio Code), as well as the Anaconda package.
 2. Open setfactory.ipynb
 3. Ensure that you have demografi.py in the same folder as the notebook
 4. Ensure that you have the .csv files needed and change the path in the second code cell of the notebook, if necessary, to the path on your computer
