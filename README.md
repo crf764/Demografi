@@ -2,7 +2,7 @@
 
 ### Finaldata.csv is my final file
 
-#### 1. Guide to creating aggregated dataset
+#### 1. Guide to creating an aggregated dataset
 
 1. You need a python environment that can execute Jupyter notebook files
 2. Open setfactory.ipynb
